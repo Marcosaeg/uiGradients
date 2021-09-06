@@ -958,7 +958,7 @@
     },
     {
         "name": "What lies Beyond",
-        "colors": ["#F0F2F0", "#FF0000"]
+        "colors": ["#F0F2F0", "#000C40"]
     },
     {
         "name": "Roseanna",
