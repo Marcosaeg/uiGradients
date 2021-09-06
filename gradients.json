@@ -1533,4 +1533,9 @@
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
     }
+    {
+        "name": "Apple pie",
+        "colors": ["#FFFF5C", "#C8DF52"]
+    }
+    
 ]
